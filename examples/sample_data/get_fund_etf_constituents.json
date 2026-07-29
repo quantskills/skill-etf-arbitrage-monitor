@@ -1,0 +1,5 @@
+[
+  {"symbol": "510300.SH", "date": "20260722", "stock_symbol": "600519.SH", "quantity": 1200, "cash_substitution_flag": 1, "name": "沪深300ETF"},
+  {"symbol": "510300.SH", "date": "20260722", "stock_symbol": "601318.SH", "quantity": 3400, "cash_substitution_flag": 1, "name": "沪深300ETF"},
+  {"symbol": "510300.SH", "date": "20260722", "stock_symbol": "600036.SH", "quantity": 2800, "cash_substitution_flag": 2, "name": "沪深300ETF"}
+]

@@ -1,0 +1,5 @@
+[
+  {"symbol": "510300.SH", "name": "沪深300ETF", "date": "20260722", "exchange": "SH", "index_symbol": "000300.SH", "index_name": "沪深300", "cash_component": 12500.0, "estimated_cash_component": 12300.0, "cash_substitution_rate": 50.0, "unit": 900000, "creation_unit": 4200000.0, "unit_nav": 4.712, "publish_iopv_flag": 1, "purchase_allowed_flag": 1, "redemption_allowed_flag": 1},
+  {"symbol": "159919.SZ", "name": "深300ETF", "date": "20260722", "exchange": "SZ", "index_symbol": "000300.SH", "index_name": "沪深300", "cash_component": 8000.0, "estimated_cash_component": 8100.0, "cash_substitution_rate": 50.0, "unit": 900000, "creation_unit": 4150000.0, "unit_nav": 4.680, "publish_iopv_flag": 1, "purchase_allowed_flag": 1, "redemption_allowed_flag": 1},
+  {"symbol": "588000.SH", "name": "科创50ETF", "date": "20260722", "exchange": "SH", "index_symbol": "000688.SH", "index_name": "科创50", "cash_component": 3000.0, "estimated_cash_component": 3050.0, "cash_substitution_rate": 100.0, "unit": 1000000, "creation_unit": 1050000.0, "unit_nav": 1.052, "publish_iopv_flag": 1, "purchase_allowed_flag": 0, "redemption_allowed_flag": 1}
+]

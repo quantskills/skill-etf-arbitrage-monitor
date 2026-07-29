@@ -1,0 +1,2 @@
+# ETF 套利监测仅用标准库；生产取数依赖 panda_data SDK
+# （由组织 skill-pandadata-api 提供，不在此强制安装）

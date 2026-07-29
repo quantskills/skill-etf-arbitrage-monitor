@@ -1,0 +1,5 @@
+[
+  {"symbol": "510300.SH", "date": "20260722", "exchange": "SH", "close": 4.735, "open": 4.700, "high": 4.740, "low": 4.695, "pre_close": 4.710, "volume": 120000000.0, "amount": 568000000.0, "change_rate": 0.53, "discount": -0.023, "discount_rate": -0.0049},
+  {"symbol": "159919.SZ", "date": "20260722", "exchange": "SZ", "close": 4.660, "open": 4.675, "high": 4.680, "low": 4.655, "pre_close": 4.680, "volume": 45000000.0, "amount": 210000000.0, "change_rate": -0.43, "discount": 0.020, "discount_rate": 0.0043},
+  {"symbol": "588000.SH", "date": "20260722", "exchange": "SH", "close": 1.061, "open": 1.050, "high": 1.065, "low": 1.049, "pre_close": 1.052, "volume": 8000000.0, "amount": 3500000.0, "change_rate": 0.86, "discount": -0.009, "discount_rate": -0.0085}
+]
