@@ -1,0 +1,8 @@
+---
+description: Load the ETF arbitrage monitor instructions.
+globs: ["**/*.py", "**/*.csv", "**/*.md"]
+alwaysApply: false
+---
+
+Read `SKILL.md` before changing or running this skill. Keep the fail-closed basket and
+permission checks, cite source dates, and preserve the research-only boundary.

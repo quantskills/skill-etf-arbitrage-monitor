@@ -6,7 +6,7 @@ description: >
   basket feasibility, and premium/discount driven arbitrage windows. Pulls ETF
   creation-redemption lists, constituent baskets, and NAV, computes real-time
   premium/discount and cash-difference, and flags actionable arbitrage signals.
-license: GPL-3.0
+license: GPL-3.0-only
 category: 工具
 metadata:
   organization: QuantSkills

@@ -1,5 +1,7 @@
 # skill-etf-arbitrage-monitor
 
+[English](README.en.md)
+
 A股 ETF 一二级市场套利 / 折溢价监控 —— 扫描一篮子 ETF，计算 **IOPV/净值 vs 二级价格的折溢价**、**申赎篮子可行性**（现金差额、最小申赎单位、申赎开关）、**套利方向与扣费后毛收益**，标出真正可执行的套利窗口。
 
 > QuantSkills 组织技能 · 数据源 Pandadata · 组织首个 ETF 方向技能 · 仅供研究参考，不构成投资建议。
@@ -53,3 +55,7 @@ examples/    run_demo.py · sample_data/ · sample_report.md
 ## 免责
 
 折溢价/IOPV 为估算，申赎规则与费率以基金公告为准。数据非实时。仅供研究，不构成投资建议。
+
+## 许可证
+
+GPL-3.0-only，详见 [LICENSE](LICENSE)。
