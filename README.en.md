@@ -36,3 +36,6 @@ is not investment advice. Confirm current fund documents before any operational 
 ## License
 
 GPL-3.0-only. See [LICENSE](LICENSE).
+
+
+Pandadata compatibility maintenance: [abgyjaguo](https://github.com/abgyjaguo). Existing authorship is retained.
