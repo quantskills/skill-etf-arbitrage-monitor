@@ -142,3 +142,7 @@ skill-etf-arbitrage-monitor/
 - IOPV 为成分加权估算,盘中无 tick 时用分钟线代理,报告须声明精度。
 - 申赎有 T+0/T+1 规则差异(跨境、货币、商品 ETF 不同),须按 ETF 类型区分。`purchase_allowed_flag=0` 或 `redemption_allowed_flag=0` 时套利单边不可行,须先过滤。
 - 只做研究/套利可行性参考,不构成投资建议。
+
+## Pandadata compatibility
+
+[Pandadata 1.0.6 compatibility](references/pandadata-compatibility.md) — exact SDK baseline, validation scope, and shared guidance for all supported agent runtimes.
